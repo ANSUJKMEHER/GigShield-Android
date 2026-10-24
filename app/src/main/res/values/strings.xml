@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GigShield Mobile</string>
+    <string name="tagline">Income protection for every gig worker.</string>
+    
+    <!-- Navigation Titles -->
+    <string name="nav_home">Home</string>
+    <string name="nav_plans">Plans</string>
+    <string name="nav_claims">Claims</string>
+    <string name="nav_risk">Risk</string>
+    <string name="nav_earnings">Earnings</string>
+    <string name="nav_profile">Profile</string>
+</resources>
